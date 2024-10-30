@@ -1,0 +1,15 @@
+﻿  binary_insertion_sort.cpp
+C:\okay\ConsoleApplication1\ConsoleApplication1\binary_insertion_sort.cpp(22,22): warning C4101: k: неиспользованная локальная переменная
+C:\okay\ConsoleApplication1\ConsoleApplication1\binary_insertion_sort.cpp(41,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void binary_insertion_sort<int>(int [],int)"
+  bubbleSort.cpp
+  ConsoleApplication1.cpp
+  ExchangeSort.cpp
+  InsertionsSort.cpp
+  OptimizedBubbleSort.cpp
+  SelectionSort.cpp
+  shaker_sort.cpp
+  test.cpp
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\okay\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
